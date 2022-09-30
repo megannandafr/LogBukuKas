@@ -1,0 +1,4 @@
+#Fri Sep 30 01:42:36 ICT 2022
+base.0=D\:\\Semester 8\\SKRIPSI\\Sertifikasi_DIPA_2022\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
